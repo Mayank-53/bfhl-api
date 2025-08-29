@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "keywords": ["rest-api", "nodejs", "express", "bfhl"],
-  "author": "Your Name",
+  "author": "VIT Student - BFHL Assignment",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
